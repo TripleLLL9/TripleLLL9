@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @TripleLLL9
-- 👀 I’m interested in learning new coding and other kinds of technology.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me. E-Mail me at: (CONFIDENTIAL)
-<!---
-TripleLLL9/TripleLLL9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+wanna learn about yours truly? you've come to the right place!
+
+i LOVE playing mario games, and fnf! i've currently been getting into doraemon, and so far, i LOVE the series! i've also been studying japanese for almost a year now with duolingo, and some genki textbooks as well!
+i've been playing the piano for some time now, and i love classical music! i also LOVE bfdi! it's one of my favorite things on youtube! (other than my friends channels)
+im currently learning, html, js, and css...
+welp, that's pretty much it so far! i'll probably update this when new interests that involve me arise! ^_^
+
+(psst! i have a website, too! its at https://triplelll9.github.io/triplelllgaminghub/)
